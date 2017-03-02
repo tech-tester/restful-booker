@@ -1,0 +1,11 @@
+{
+  "firstname": "**scrubbed-date**",
+  "lastname": "Brown",
+  "totalprice": 111,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "**scrubbed-date**",
+    "checkout": "**scrubbed-date**"
+  },
+  "additionalneeds": "Breakfast"
+}
